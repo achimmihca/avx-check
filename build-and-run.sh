@@ -1,1 +1,1 @@
-gcc main.c -o avx-check && ./avx-check
+gcc main.c -o avx-check && ./avx-check "$@"
